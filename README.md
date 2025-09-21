@@ -1,5 +1,13 @@
 # DeepFakeDetection
  A system to detect deepfake images &amp; videos.
 <br>
- Author- Navika Kapoor, Aashray Kini, Parthvi Mishra, Jiya Patel
+ Author- 
+ <br>
+ Navika Kapoor,
+ <br>
+ Aashray Kini,
+ <br>
+ Parthvi Mishra, 
+ <br>
+ Jiya Patel
  
