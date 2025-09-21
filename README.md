@@ -3,12 +3,12 @@
 <br>
  Author- 
  <br>
-  Jiya Patel
- <br>
  Navika Kapoor
  <br>
- Aashray Kini
+ Parthvi Mishra
  <br>
- Parthvi Mishra 
+ Jiya Patel
+ <br>
+ Aashray Kini
 
  
