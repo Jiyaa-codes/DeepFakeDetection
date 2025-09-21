@@ -3,11 +3,11 @@
 <br>
  Author- 
  <br>
- Navika Kapoor,
+ Navika Kapoor
  <br>
- Aashray Kini,
+ Aashray Kini
  <br>
- Parthvi Mishra, 
+ Parthvi Mishra 
  <br>
  Jiya Patel
  
